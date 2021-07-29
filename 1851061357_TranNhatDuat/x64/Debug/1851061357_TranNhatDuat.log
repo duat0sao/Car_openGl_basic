@@ -1,0 +1,21 @@
+﻿  1851061357.cpp
+C:\Users\ss1\source\repos\1851061357_TranNhatDuat\1851061357_TranNhatDuat\1851061357.cpp(18,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ss1\source\repos\1851061357_TranNhatDuat\1851061357_TranNhatDuat\1851061357.cpp(60,62): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ss1\source\repos\1851061357_TranNhatDuat\1851061357_TranNhatDuat\1851061357.cpp(60,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ss1\source\repos\1851061357_TranNhatDuat\1851061357_TranNhatDuat\1851061357.cpp(68,61): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ss1\source\repos\1851061357_TranNhatDuat\1851061357_TranNhatDuat\1851061357.cpp(69,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ss1\source\repos\1851061357_TranNhatDuat\1851061357_TranNhatDuat\1851061357.cpp(85,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ss1\source\repos\1851061357_TranNhatDuat\1851061357_TranNhatDuat\1851061357.cpp(87,32): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\ss1\source\repos\1851061357_TranNhatDuat\1851061357_TranNhatDuat\1851061357.cpp(87,27): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\ss1\source\repos\1851061357_TranNhatDuat\1851061357_TranNhatDuat\1851061357.cpp(91,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ss1\source\repos\1851061357_TranNhatDuat\1851061357_TranNhatDuat\1851061357.cpp(93,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ss1\source\repos\1851061357_TranNhatDuat\1851061357_TranNhatDuat\1851061357.cpp(94,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\ss1\source\repos\1851061357_TranNhatDuat\1851061357_TranNhatDuat\1851061357.cpp(94,28): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\ss1\source\repos\1851061357_TranNhatDuat\1851061357_TranNhatDuat\1851061357.cpp(96,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ss1\source\repos\1851061357_TranNhatDuat\1851061357_TranNhatDuat\1851061357.cpp(103,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ss1\source\repos\1851061357_TranNhatDuat\1851061357_TranNhatDuat\1851061357.cpp(105,31): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\ss1\source\repos\1851061357_TranNhatDuat\1851061357_TranNhatDuat\1851061357.cpp(105,26): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\ss1\source\repos\1851061357_TranNhatDuat\1851061357_TranNhatDuat\1851061357.cpp(109,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ss1\source\repos\1851061357_TranNhatDuat\1851061357_TranNhatDuat\1851061357.cpp(111,32): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\ss1\source\repos\1851061357_TranNhatDuat\1851061357_TranNhatDuat\1851061357.cpp(111,27): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+  1851061357_TranNhatDuat.vcxproj -> C:\Users\ss1\source\repos\1851061357_TranNhatDuat\x64\Debug\1851061357_TranNhatDuat.exe
